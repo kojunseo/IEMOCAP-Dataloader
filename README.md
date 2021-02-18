@@ -1,8 +1,13 @@
 # IEMOCAP-Dataloader
 IEMOCAP Preprocessed Data (ComParE_2016, eGeMAPSv02, Functionals, LLD) Loader Package
 
+## IEMOCAP 
+    Paper:
+        https://ecs.utdallas.edu/research/researchlabs/msp-lab/publications/Busso_2008_5.pdf
+ 
+
 ## What is this package
-    This is IEMOCAP Dataset Loader for research purpose
+    This is IEMOCAP-DataLoader for research purpose
     We preprocessed sentences data using opensmile.
     This Dataloader Package will return actual preprocessed data and sentences' label
     We made it to return data by session and emotion label using parameters.
